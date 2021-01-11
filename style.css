@@ -1,4 +1,11 @@
 body {
-  background: url(background.png);
+  background: url(vector-creator.png);
   background-size: cover;
+  
+}
+#float{
+  float: right;
+} 
+span {
+  visibility: hidden;
 }
